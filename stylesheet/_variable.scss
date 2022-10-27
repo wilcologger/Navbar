@@ -1,0 +1,37 @@
+// Colors
+$black: #000;
+$white: #fff;
+
+$primary: #1e3f5a;
+
+// navbar
+$navbar-padding-x: 4px !default;
+$navbar-padding-y: 12px !default;
+$navbar-height: 64px !default;
+$navbar-bg-color: $primary !default;
+$navbar-color: $white !default;
+$navbar-border-color: $primary !default;
+
+// navbar list items
+$navbar-item-padding-x: 4px !default;
+$navbar-item-padding-y: 12px !default;
+$navbar-item-color: $white !default;
+$navbar-item-font-weigth: 700 !default;
+$navbar-item-font-size: 1rem !default;
+$navbar-item-line-height: 1.5 !default;
+$navbar-item-hover-opacity: 0.7 !default;
+
+// navbar brand
+$navbar-brand-color: $white;
+
+// Hamburger
+$hamburger-padding-x: 12px !default;
+$hamburger-padding-y: 12px !default;
+$hamburger-line-width: 28px !default;
+$hamburger-line-height: 2px !default;
+$hamburger-line-spacing: 4px !default;
+$hamburger-line-color: $white !default;
+$hamburger-line-border-radius: 4px !default;
+$hamburger-hover-opacity: 0.7 !default;
+$hamburger-line-active-color: $hamburger-line-color !default;
+$hamburger-active-hover-opacity: $hamburger-hover-opacity !default;
